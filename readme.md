@@ -1,6 +1,6 @@
-##Mini-crm
+## Mini-crm
 
--Mini-crm contains employees from companies.
+- Mini-crm contains employees from companies.
 
 - Make auth of laravel and make seeder of on user admin.
 - Create CRUD of Companies in dashboard.
