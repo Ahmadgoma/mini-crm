@@ -19,4 +19,4 @@ Installation
 - php artisan migrate --seed
 - php artisan storage:link
 - You can login with user name : admin@admin.com
-and password : password
+and password : password in this link http://localhost/mini-crm/admin .
