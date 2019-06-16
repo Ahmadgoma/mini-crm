@@ -18,5 +18,10 @@ Installation
 - php artisan key:generate
 - php artisan migrate --seed
 - php artisan storage:link
+- Then you need to add permssions of storage folder by this command 
+  change directory to ypur application:
+  $ cd /dir/of/mini-crm
+  then change permissions 
+  $ sudo chmod -R 777 ./storage 
 - You can login with user name : admin@admin.com
 and password : password in this link http://localhost/mini-crm/admin .
